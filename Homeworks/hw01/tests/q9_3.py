@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> isinstance(with_commas, str)
+          >>> isinstance(with_excitement, str)
           True
           >>> isinstance(with_spaces, str)
           True

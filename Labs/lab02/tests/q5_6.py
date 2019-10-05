@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> num_even_year_movies == 127
+          >>> num_even_year_movies.num_rows == 127
           True
           """,
           'hidden': False,

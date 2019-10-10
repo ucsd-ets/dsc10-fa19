@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> ## Wrong Format
-          >>> isinstance(proportions_2011, Table) or isinstance(proportion_2011, Table)
+          >>> isinstance(proportion_2011, Table)
           True
           """,
           'hidden': False,

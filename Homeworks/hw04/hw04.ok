@@ -1,0 +1,15 @@
+{
+  "name": "Homework 4: Group, Join, Conditionals, Iteration, Randomness",
+  "endpoint": "ucsd/dsc10/fa19/hw04",
+  "src": [
+    "hw04.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

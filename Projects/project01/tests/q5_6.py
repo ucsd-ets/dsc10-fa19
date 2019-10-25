@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> comparison_table.labels == ('Attribute', 'Mean For Top Hits', 'Mean for All Songs')#check column names
+          >>> comparison_table.labels == ('Attribute', 'Mean for Top Hits', 'Mean for All Songs')#check column names
           True
           >>> comparison_table.num_rows==6 
           True

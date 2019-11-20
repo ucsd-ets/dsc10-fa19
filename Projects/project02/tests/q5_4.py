@@ -6,8 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> # Your answer should be size of 500.
-          >>> max_props.size == 500
+          >>> one_simulated_max_prop()<0.05
           True
           """,
           'hidden': False,
